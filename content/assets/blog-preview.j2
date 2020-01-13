@@ -1,0 +1,11 @@
+<h2>Thanks for stopping by!</h2>
+
+<p style="margin-bottom: 50px;">While you're here, please check out some of my blog posts:</p>
+
+{% for preview in previews %}
+<a href=" {{ preview['rel_link'] }}">
+  <h3>{{ preview["title"] }}</h3>
+</a>
+<p>{{ preview["lead"] }}</p>
+<br />
+{% endfor %}
