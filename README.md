@@ -24,7 +24,7 @@ I looked around for a bit and determined there really wasn't anything that clean
 3. Easily cross post any articles I want into other channels (Medium and perhaps others)
 4. Automate everything that isn't me writing Markdown or checking code into Github as a CD pipeline
 
-There were a bunch of projects, particularly Gatsby, that looked great in some ways but didn't really have what I had in mind as a clear use case. I thought about it for a bit and decided it wouldn't be that hard to just put something together myself. If this sounds like something you might need, send me a note. Your obviosuly welcome to use the code, but if it's simple enough, I might try to make this friendlier for others who need something similar.
+There were a bunch of projects, particularly Gatsby, that looked great in some ways but didn't really have what I had in mind as a clear use case. I thought about it for a bit and decided it wouldn't be that hard to just put something together myself. If this sounds like something you might need, send me a note. You're obviosuly welcome to use the code, but if it's simple enough, I might try to make this friendlier for others who need something similar.
 
 ## Developer Dependencies
 
